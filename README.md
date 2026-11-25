@@ -35,4 +35,4 @@ The system manages home devices (lights, thermostat, camera, and a security syst
 - [Tasnim Nasser Almabsali 24-0075]
 
 ## Course
-OOP, [University name], 2026
+OOP, [GUTECH], 2026
